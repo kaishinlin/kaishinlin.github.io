@@ -1,0 +1,12 @@
+---
+title: "hobbies"
+format: html
+editor: visual
+---
+
+I do things sometimes, maybe often!
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+![](profile.jpg)

@@ -19,5 +19,12 @@
     "title": "Kaishin Lin",
     "section": "Experience",
     "text": "Experience\nWorkplace | Job title | April 20XX - present"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "hobbies",
+    "section": "",
+    "text": "I do things sometimes, maybe often! ## Quarto\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
   }
 ]
